@@ -1,0 +1,8 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.pem
+# Module directory
+.terraform/
+*.hcl
+*.tfstate.lock.info
